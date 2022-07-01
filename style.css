@@ -1,0 +1,29 @@
+:root{
+    padding: 0px;
+    margin: 0px;
+    font-family:sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+a img{
+    width: 10rem;
+}
+ul a{
+    text-decoration: none;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color: #333;
+    font-weight: bolder;
+}
+ul a:hover{
+    color: tomato;
+}
+#enquiry{
+    color: white;
+    background-color: tomato;
+    border 2px solid tomato;
+    padding: 5px 15px !important;
+}
